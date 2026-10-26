@@ -1,0 +1,438 @@
+Reservation_ID,Facility_Type,User_Category,Request_Date,Reservation_Date,Lead_Time_Days,Time_Slot,Duration_Hours,Participants,Usage_Status,Actual_Attendance,Cancellation_Days_Before
+RSV-0396,Auditorium,Staff,2026-05-29,2026-06-28,30.0,Morning,2.0,187.0,Canceled,,21.0
+RSV-0079,Sports Court,Student,2026-04-03,2026-04-04,1.0,Morning,3.0,30.0,Cancelled,,1.0
+RSV-0279,Study Room,Faculty,2026-04-28,2026-05-24,26.0,Morning,3.0,4.0,Cancelled,,12.0
+RSV-0306,Auditorium,Student,2026-05-24,2026-05-27,3.0,Morning,2.0,60.0,Used,41.0,
+RSV-0326, Sports Court ,Student Organization,2026-04-01,2026-04-15,14.0,Evening,4.0,29.0,No-Show,0.0,
+RSV-0290,Classroom,Student Organization,2026-05-16,2026-05-19,3.0,Evening,1.0,41.0,Used,41.0,
+RSV-0219,Study Room,Faculty,2026-05-03,2026-06-02,30.0,Afternoon,0.0,6.0,Used,6.0,
+RSV-0083,Study Room,Staff,2026-05-12,2026-06-13,32.0,Afternoon,2.0,4.0,,,4.0
+RSV-0369,Computer Lab,Faculty,2026-05-10,2026-05-10,0.0,Morning,1.0,37.0,Used,27.0,
+RSV-0403,Conference Room,Student,2026-04-18,2026-04-27,9.0,Morning,3.0,20.0,Used,15.0,
+RSV-0291,Study Room,External Guest,2026-02-16,2026-02-20,4.0,Evening,1.0,2.0,Cancelled,,1.0
+RSV-0076,Computer Lab,STUDENT ORGANIZATION,2026-05-09,2026-06-13,35.0,Evening,3.0,31.0,Cancelled,,23.0
+RSV-0226,Study Room,Staff,2026-04-08,2026-04-27,19.0,Evening,1.0,5.0,Cancelled,,14.0
+RSV-0395,Classroom,,2026-03-08,2026-03-17,9.0,Morning,4.0,36.0,No-Show,0.0,
+RSV-0156,Sports Court,Student Organization,2026-06-10,2026-06-13,3.0,Morning,3.0,22.0,Cancelled,,3.0
+RSV-0077,Computer Lab,Student Organization,2026-06-04,2026-06-04,0.0,Morning,1.0,26.0,Cancelled,,0.0
+RSV-0095,Computer Lab, Student ,2026-03-13,2026-04-13,31.0,Afternoon,3.0,27.0,Used,18.0,
+RSV-0193,Classroom,External Guest,2026-03-20,2026-03-31,11.0,Afternoon,3.0,26.0, Used ,22.0,
+RSV-0074,Classroom,Student,2026-05-13,2026-06-18,36.0,Evening,4.0,34.0,CANCELLED,,24.0
+RSV-0154,Sports Court,,2026-03-17,2026-03-28,11.0,Morning,4.0,23.0,Used,20.0,
+RSV-0010,Auditorium,Faculty,2026-01-31,2026-02-07,7.0,Evening,2.0,115.0,Used,112.0,
+RSV-0176,Classroom,Student,2026-06-23,2026-06-30,7.0,Morning,4.0,31.0,Used,21.0,
+RSV-0031,Conference Room,Student,2026-03-26,2026-04-15,20.0,Afternoon,2.0,12.0,No-Show,0.0,
+RSV-0412,Sports Court,Student Organization,2026-03-10,2026-03-20,10.0,Morning,2.0,15.0,Used,13.0,
+RSV-0105,,Student,2026-02-06,2026-02-11,5.0,Morning,2.0,15.0,No-Show,0.0,
+RSV-0133,Sports Court,Student,2026-03-30,2026-04-10,11.0,Morning,1.0,15.0,Used,9.0,
+RSV-0071,Classroom,Faculty,2026-03-18,2026-04-09,22.0,Afternoon,3.0,30.0,Used,23.0,
+RSV-0370,Study Room,Faculty,2026-04-25,2026-04-25,0.0,Morning,2.0,6.0,Used,5.0,
+RSV-0176,Classroom,Student,2026-06-23,2026-06-30,7.0,Morning,4.0,31.0,Used,21.0,
+RSV-0056,Conference Room,Student,2026-05-21,2026-05-24,3.0,Evening,2.0,14.0,Used,8.0,
+RSV-0370,Study Room,Faculty,2026-04-25,2026-04-25,0.0,Morning,2.0,6.0,Used,5.0,
+RSV-0361,Study Room,Student,2026-06-19,2026-06-28,9.0,Afternoon,1.0,4.0,Used,3.0,
+RSV-0182,Study Room,Faculty,2026-06-13,2026-06-17,4.0,Afternoon,1.0,7.0, Used ,7.0,
+RSV-0308,Sports Court,Student,2026-04-07,2026-04-21,14.0,Afternoon,1.0,18.0,Used,14.0,
+RSV-0376,Classroom,Student,2026-03-15,2026-03-17,2.0,Afternoon,2.0,36.0,USED,32.0,
+RSV-0073,Study Room,Faculty,2026-03-18,2026-04-17,30.0,Evening,2.0,,Used,5.0,
+RSV-0204,Classroom,Student Organization,2026-02-16,2026-03-20,32.0,Afternoon,2.0,23.0,Cancelled,,19.0
+RSV-0102,Conf. Room,Student,2026-05-29,2026-05-31,2.0,Afternoon,2.0,18.0,Used,14.0,
+RSV-0040,Sports Court,Faculty,2026-04-23,2026-04-25,2.0,Afternoon,2.0,23.0,Used ,23.0,
+RSV-0292,Classroom,Faculty,2026-06-29,2026-06-30,1.0,Afternoon,2.0,32.0,Used,29.0,
+RSV-0348,Classroom,Student,2026-06-06,2026-06-15,9.0,Evening,1.0,29.0,NO-SHOW,0.0,
+RSV-0132,Study Room,Student,2026-06-26,2026-06-29,3.0,Morning,3.0,5.0,Used,5.0,
+RSV-0235,Study Room,Staff,2026-04-25,2026-04-25,0.0,Evening,2.0,3.0,Cancelled,,0.0
+RSV-0080,Conference Room,Student Organization,2026-03-19,2026-04-20,32.0,Afternoon,2.0,7.0,No-Show,0.0,
+RSV-0155,,Staff,2026-01-18,2026-02-17,30.0,Evening,1.0,20.0,Used,15.0,
+RSV-0034,Computer Lab,Student,2026-03-12,2026-04-26,45.0,Morning,2.0,33.0,CANCELLED,,38.0
+RSV-0158,Sports Court,Student Organization,2026-03-16,2026-03-24,8.0,Morning,2.0,24.0,Cancelled,,1.0
+RSV-0303,Auditorium,Student,2026-01-14,2026-02-12,29.0,Afternoon,3.0,89.0,No-Show,0.0,
+RSV-0078,Sports Court,Faculty,2026-05-25,2026-06-03,9.0,Morning,2.0,21.0,Used,16.0,
+RSV-0251,Sports Court,Student,2026-06-17,2026-06-25,8.0,Morning,1.0,33.0,Cancelled,,0.0
+RSV-0383,Conference Room,Staff,2026-04-11,2026-04-19,8.0,Evening,2.0,999.0,Used,11.0,
+RSV-0016,Classroom,Student,2026-04-15,2026-04-19,4.0,Afternoon,2.0,22.0,Used,16.0,
+RSV-0405,Study Room,Staff,2026-03-01,2026-03-07,6.0,Morning,4.0,2.0,Used,2.0,
+RSV-0127,Computer Lab,Student Organization,2026-04-12,2026-05-22,40.0,Evening,3.0,23.0,Cancelled,,36.0
+RSV-0001,Conference Room,Faculty,2026-02-10,2026-03-23,41.0,Morning,,6.0,Used,5.0,
+RSV-0020,Sports Court,Faculty,2026-01-30,2026-02-03,-3.0,Afternoon,2.0,26.0,Used,19.0,
+RSV-0281,Classroom,Student,2026-04-06,2026-04-07,1.0,Afternoon,3.0,26.0,Used,21.0,
+RSV-0388,Study Room,Student,2026-05-03,2026-05-19,16.0,Afternoon,3.0,2.0,No-Show,0.0,
+RSV-0057,Auditorium,Student Organization,2026-06-06,2026-06-11,5.0,Morning,2.0,0.0,Cancelled,,3.0
+RSV-0221,Computer Lab,Faculty,2026-04-02,2026-04-07,5.0,Evening,2.0,34.0,Used,19.0,
+RSV-0341,Classroom,Faculty,2026-05-14,2026-05-19,5.0,Afternoon,4.0,36.0,Used,24.0,
+RSV-0094,Computer Lab,Student,2026-02-08,2026-02-10,2.0,Afternoon,24.0,21.0,Used,20.0,
+RSV-0288,Computer Lab,Faculty,2026-06-11,2026-06-25,14.0,Afternoon,3.0,24.0,Used,22.0,
+RSV-0285,Sports Court,Student,2026-03-24,2026-04-12,19.0,Morning,2.0,25.0,Cancelled,,4.0
+RSV-0284,Classroom,Staff,2026-05-04,2026-05-15,11.0,Morning,1.0,44.0,Used,35.0,
+RSV-0371,Conference Room,Student,2026-03-09,2026-03-16,7.0,Afternoon,2.0,7.0,Cancelled,,7.0
+RSV-0026,Classroom, Faculty ,2026-05-23,2026-06-25,33.0,Evening,4.0,29.0,Used,23.0,
+RSV-0418,Conference Room,External Guest,2026-03-07,2026-04-01,25.0,Afternoon,2.0,,Cancelled,,14.0
+RSV-0343,Conference Room,Student,2026-05-21,2026-06-03,13.0,Morning,2.0,12.0,Used,11.0,
+RSV-0114,Sports Court,Faculty,2026-03-27,2026-04-03,7.0,Morning,3.0,20.0,Cancelled,,2.0
+RSV-0043,Conference Room,External Guest,2026-04-20,2026-04-21,1.0,Evening,3.0,10.0,Used,6.0,
+RSV-0166,Computer Lab,Faculty,2026-05-12,2026-06-05,24.0,Morning,2.0,18.0,Used,18.0,
+RSV-0385,Computer Lab,Student,2026-04-03,2026-04-07,4.0,Morning,1.0,22.0,Cancelled,,0.0
+RSV-0411,Sports Court,Faculty,2026-03-05,2026-03-08,3.0,Morning,2.0,31.0,Used,22.0,
+RSV-0312,Computer Lab,Student,2026-02-18,2026-02-18,0.0,Evening,2.0,31.0,Used,28.0,
+RSV-0125,Classroom,Student,2026-03-25,2026-04-07,13.0,Evening,4.0,27.0,No-Show,0.0,
+RSV-0305,Study Room, Student ,2026-05-10,2026-06-03,24.0,Morning,3.0,4.0,Used,3.0,
+RSV-0023,Study Room,Faculty,2026-04-21,2026-04-21,0.0,Afternoon,2.0,,Used,3.0,
+RSV-0047,Computer Lab,Faculty,2026-05-10,2026-06-13,34.0,Morning,2.0,27.0,Used,16.0,
+RSV-0091,Classroom,Student,2026-04-16,2026-04-24,8.0,Morning,3.0,34.0,No-Show,0.0,
+RSV-0246,Study Room,Faculty,2026-04-12,2026-04-17,5.0,Afternoon,2.0,6.0,Used,4.0,
+RSV-0117,Conf. Room,Student Organization,2026-03-23,2026-03-26,3.0,Afternoon,2.0,19.0,Used,13.0,
+RSV-0417,Classroom,Faculty,2026-04-21,2026-05-02,11.0,Afternoon,3.0,31.0,Used,25.0,
+RSV-0058,Sports Court,Faculty,2026-06-04,2026-06-21,17.0,Morning,1.0,44.0,No-Show,0.0,
+RSV-0138,,Student Organization,2026-04-23,2026-04-27,4.0,Morning,4.0,161.0,Used,163.0,
+RSV-0025,Conference Room,Student,2026-02-07,2026-03-18,39.0,Morning,4.0,17.0,Cancelled,,5.0
+RSV-0018,Classroom,Student Organization,2026-03-31,2026-04-06,6.0,Evening,1.0,21.0,Cancelled,,1.0
+RSV-0067,Sports Court,Student Organization,2026-06-07,2026-06-09,2.0,Afternoon,2.0,21.0,Cancelled,,2.0
+RSV-0266,Classroom,Student,2026-06-07,2026-06-10,3.0,Afternoon,1.0,26.0,Used,22.0,
+RSV-0406,STUDY ROOM,Student,2026-03-18,2026-03-20,2.0,Morning,3.0,3.0,Used,3.0,
+RSV-0032,Study Room,Staff,2026-05-14,2026-06-20,37.0,Morning,2.0,2.0,Cancelled,,34.0
+RSV-0085,Classroom, Student Organization ,2026-05-12,2026-05-21,9.0,Morning,4.0,44.0,Used,34.0,
+RSV-0300,Sports Court,External Guest,2026-04-26,2026-05-04,8.0,Afternoon,3.0,19.0,Cancelled,,3.0
+RSV-0174,Study Room,Student Organization,2026-01-31,2026-02-07,7.0,Evening,1.0,5.0,No-Show,0.0,
+RSV-0095,Computer Lab, Student ,2026-03-13,2026-04-13,31.0,Afternoon,3.0,27.0,Used,18.0,
+RSV-0228,Sports Court,Student Organization,2026-04-05,2026-04-09,4.0,Afternoon,2.0,30.0,Cancelled,,2.0
+RSV-0031,Conference Room,Student,2026-03-26,2026-04-15,20.0,Afternoon,2.0,12.0,No-Show,0.0,
+RSV-0153,Classroom,Student Organization,2026-06-09,2026-06-14,5.0,Afternoon,3.0,,Used,33.0,
+RSV-0355,Auditorium,Student,2026-02-14,2026-02-22,8.0,Evening,3.0,154.0,Cancelled,,4.0
+RSV-0273,Classroom,Student,2026-04-24,2026-05-04,10.0,Afternoon,2.0,39.0,No-Show,0.0,
+RSV-0419,Classroom,Student Organization,2026-02-21,2026-02-23,2.0,Afternoon,3.0,30.0,No-Show,0.0,
+RSV-0006,Study Room,Faculty,2026-04-08,2026-04-09,1.0,Evening,3.0,5.0,Used,4.0,
+RSV-0046,Conference Room,Faculty,2026-02-12,2026-03-14,30.0,Morning,4.0,15.0,Used,12.0,
+RSV-0149,computer lab,Student,2026-05-17,2026-05-27,10.0,Morning,3.0,32.0,Used,22.0,
+RSV-0138,,Student Organization,2026-04-23,2026-04-27,4.0,Morning,4.0,161.0,Used,163.0,
+RSV-0377,Study Room,Student,2026-02-04,2026-02-07,3.0,Morning,2.0,5.0,Used,4.0,
+RSV-0276,Computer Lab,Student Organization,2026-05-19,2026-05-20,1.0,Morning,2.0,12.0,Used,9.0,
+RSV-0017,Sports Court,Student,2026-05-16,2026-05-21,5.0,Afternoon,1.0,28.0,Cancelled,,3.0
+RSV-0404,Classroom,Faculty,2026-06-03,2026-06-07,4.0,Morning,1.0,29.0,No-Show,0.0,
+RSV-0118,Conference Room,Student,2026-03-15,2026-04-22,38.0,Afternoon,3.0,21.0,Used,21.0,
+RSV-0313,Classroom,Student,2026-03-24,2026-05-02,39.0,Morning,2.0,21.0,No-Show,0.0,
+RSV-0004,Conference Room,Student,2026-02-08,2026-02-22,14.0,Morning,4.0,15.0,Used,10.0,
+RSV-0019,Study Room,Faculty,2026-05-01,2026-05-04,3.0,Morning,3.0,7.0,Used,4.0,
+RSV-0169,Computer Lab,Student,,2026-06-03,2.0,Afternoon,3.0,30.0,Used,30.0,
+RSV-0061,Sports Court,Student Organization,2026-05-19,2026-05-22,3.0,Afternoon,2.0,16.0,No-Show,0.0,
+RSV-0409,Classroom,Staff,2026-06-11,2026-07-01,20.0,Evening,1.0,36.0,Cancelled,,9.0
+RSV-0356,Auditorium,Staff,2026-03-21,2026-03-23,2.0,Morning,1.0,170.0,Used,120.0,
+RSV-0064,Conference Room,Student,2026-05-09,2026-05-16,7.0,Afternoon,3.0,3.0,No-Show,0.0,
+RSV-0111,Auditorium,Faculty,2026-01-29,2026-03-15,45.0,Afternoon,1.0,111.0,Used,75.0,
+RSV-0278,Auditorium,Student Organization,2026-04-26,2026-04-28,2.0,Afternoon,3.0,201.0,Used,180.0,
+RSV-0350,Classroom,Faculty,2026-04-14,2026-04-24,10.0,Afternoon,2.0,24.0,,18.0,
+RSV-0030,Sports Court,Faculty,2026-06-05,2026-06-11,6.0,Morning,2.0,19.0,No-Show,0.0,
+RSV-0141,Auditorium,Student,2026-03-31,2026-04-09,9.0,Evening,2.0,190.0,Used,198.0,
+RSV-0212,SPORTS COURT,Staff,2026-04-13,2026-04-25,12.0,Morning,1.0,27.0,Cancelled,,8.0
+RSV-0230,Class Room,Student,2026-04-15,2026-05-18,33.0,Morning,2.0,37.0,Used,23.0,
+RSV-0027,Auditorium,External Guest,2026-01-13,2026-02-06,24.0,Evening,2.0,161.0,No-Show,0.0,
+RSV-0008,Conference Room,Staff,2026-06-14,2026-06-15,1.0,Afternoon,4.0,17.0,Used,10.0,
+RSV-0177,Computer Lab,Faculty,2026-04-30,2026-05-08,8.0,Afternoon,1.0,34.0,Used,35.0,
+RSV-0397,Study Room,Staff,2026-02-26,2026-03-22,24.0,Morning,1.0,4.0,,0.0,
+RSV-0109,Classroom,Faculty,2026-04-17,2026-04-17,0.0,Evening,1.0,31.0,USED,22.0,
+RSV-0318,Sports Court,Student,2026-03-22,2026-04-07,16.0,Morning,3.0,15.0,Used,13.0,
+RSV-0408,Study Room,Student,2026-05-20,2026-05-27,7.0,Morning,1.0,6.0,Used,5.0,
+RSV-0119,Computer Lab,Student,2026-05-09,2026-05-14,5.0,Afternoon,2.0,24.0,Used,22.0,
+RSV-0115,Classroom,Student,2026-03-18,2026-03-25,,Evening,4.0,44.0,Used,44.0,
+RSV-0142,Auditorium,Student,2026-03-16,2026-03-22,6.0,Afternoon,1.0,155.0,Used,90.0,
+RSV-0210,Auditorium,Faculty,2026-04-09,2026-04-10,1.0,Morning,1.0,183.0,Used,117.0,
+RSV-0324,Auditorium,Student,2026-05-21,2026-06-07,17.0,Morning,1.0,138.0,No-Show,0.0,
+RSV-0334,Study Room,Student Org,2026-01-18,2026-02-26,39.0,Afternoon,2.0,8.0,Cancelled,,33.0
+RSV-0199,Classroom,Student,2026-02-05,2026-02-12,7.0,Morning,4.0,47.0,Used,26.0,
+RSV-0330,Computer Lab,Staff,2026-01-26,2026-02-04,9.0,Morning,1.0,35.0,Used,30.0,
+RSV-0389,Classroom,Student Organization,2026-04-21,2026-05-03,12.0,Evening,4.0,37.0,No-Show,0.0,
+RSV-0321,Study Room,Student,2026-06-09,2026-06-21,12.0,Morning,3.0,5.0,No-Show,0.0,
+RSV-0295,Study Room,Faculty,2026-03-23,2026-04-09,17.0,Evening,1.0,2.0,Cancelled,,13.0
+RSV-0181,Study Room,Student Organization,2026-02-08,2026-03-03,23.0,Evening,1.0,2.0,No-Show,0.0,
+RSV-0200,Computer Lab,Student,2026-04-24,2026-05-05,11.0,Morning,2.0,25.0,Used,17.0,
+RSV-0110,Study Room,Student,2026-03-23,2026-03-25,2.0,Morning,2.0,7.0,Used,7.0,
+RSV-0071,Classroom,Faculty,2026-03-18,2026-04-09,22.0,Afternoon,3.0,30.0,Used,23.0,
+RSV-0146,Classroom,Faculty,2026-04-29,2026-05-02,3.0,Evening,,45.0,Used,45.0,
+RSV-0238,Conference Room, Student ,2026-05-14,2026-05-25,11.0,Afternoon,2.0,19.0,Used,11.0,
+RSV-0381,Sports Court,Faculty,2026-04-04,2026-04-23,19.0,Morning,3.0,25.0,Used,20.0,
+RSV-0398,Computer Lab,Student Organization,2026-05-29,2026-06-03,5.0,Morning,3.0,36.0,CANCELLED,,1.0
+RSV-0084,Classroom,Student Organization,2026-04-17,2026-04-18,1.0,Afternoon,2.0,50.0,Cancelled,,1.0
+RSV-0407,Computer Lab,Student Organization,2026-02-28,2026-02-26,2.0,Afternoon,3.0,34.0,Cancelled,,0.0
+RSV-0173,Classroom,Student,2026-01-27,2026-02-06,10.0,Afternoon,1.0,37.0,Cancelled,,8.0
+RSV-0075,Classroom,Faculty,2026-01-19,2026-02-09,21.0,Evening,4.0,27.0,No-Show,0.0,
+RSV-0358,Conference Room,Student,2026-04-10,2026-04-13,3.0,Afternoon,2.0,12.0,Used ,10.0,
+RSV-0387,Conference Room,Faculty,2026-03-10,2026-04-21,42.0,Afternoon,1.0,14.0,Used,9.0,
+RSV-0120,Sports Court,Staff,2026-02-02,2026-02-14,12.0,Afternoon,2.0,26.0,Cancelled,,6.0
+RSV-0317,Comp Lab,Student,2026-06-28,2026-06-30,2.0,Morning,3.0,35.0,Used,24.0,
+RSV-0328, Auditorium ,Student Organization,2026-01-30,2026-02-09,10.0,Afternoon,2.0,146.0,Cancelled,,9.0
+RSV-0194,Study Room,External Guest,2026-02-15,2026-03-17,30.0,Evening,4.0,6.0,Used,5.0,
+RSV-0248,Computer Lab,External Guest,2026-04-26,2026-05-01,5.0,Afternoon,2.0,31.0,Used,27.0,
+RSV-0282,Classroom,Student,2026-05-23,2026-06-03,11.0,Morning,1.0,43.0,Used,43.0,
+RSV-0196,classroom,Faculty,2026-05-19,2026-05-25,6.0,Afternoon,1.0,36.0,Used,29.0,
+RSV-0339,Classroom,Student,2026-04-25,2026-05-04,9.0,Morning,3.0,48.0,Used,32.0,
+RSV-0336, Sports Court ,Student,2026-05-14,2026-05-18,4.0,Afternoon,2.0,31.0,Used,21.0,
+RSV-0223,Sports Court,Student,2026-02-14,2026-02-27,13.0,Morning,2.0,36.0,No-Show,0.0,
+RSV-0037,Classroom,External Guest,2026-04-02,2026-04-27,25.0,Morning,1.0,43.0,Used,26.0,
+RSV-0140,Classroom,Student Organization,2026-03-19,2026-03-23,4.0,Morning,2.0,47.0,Used,36.0,
+RSV-0393,Sports Court,External Guest,2026-06-07,2026-06-15,8.0,Morning,1.0,30.0,Cancelled,,3.0
+RSV-0185,Conference Room,External Guest,2026-02-01,2026-02-13,12.0,Afternoon,1.0,8.0,Cancelled,,5.0
+RSV-0240,Classroom,Student Organization,2026-04-15,2026-05-14,29.0,Morning,2.0,22.0,Cancelled,,23.0
+RSV-0254,Classroom,Faculty,2026-04-17,2026-05-04,17.0,Morning,3.0,18.0,Used,-2.0,
+RSV-0060,Classroom,Student Organization,2026-01-07,2026-02-13,37.0,Afternoon,3.0,37.0,Used,22.0,
+RSV-0112,CLASSROOM,Faculty,2026-04-02,2026-05-11,39.0,Morning,4.0,30.0,Used,26.0,
+RSV-0197,Sports Court,Faculty,2026-02-06,2026-02-15,9.0,Morning,1.0,27.0,Used,28.0,
+RSV-0209,Classroom,Student Organization,2026-04-14,2026-04-18,4.0,Evening,,32.0,Used,24.0,
+RSV-0007,Conference Room,Student,2026-01-19,2026-02-02,14.0,Morning,1.0,,Used,12.0,
+RSV-0384,Auditorium,Student Organization,2026-03-29,2026-05-06,38.0,Afternoon,1.0,147.0,CANCELLED,,12.0
+RSV-0302,Classroom,Student Organization,2026-02-20,2026-02-27,7.0,Afternoon,2.0,36.0,Cancelled,,5.0
+RSV-0159,Conference Room,Staff,2026-02-05,2026-02-04,1.0,Evening,3.0,10.0,Used,6.0,
+RSV-0151,Study Room,Student,2026-01-21,2026-02-09,19.0,Afternoon,3.0,2.0,No-Show,0.0,
+RSV-0178,Study Room,Faculty,2026-05-24,2026-05-30,6.0,Afternoon,2.0,7.0,Used,5.0,
+RSV-0011,Computer Lab,Staff,2026-06-11,2026-06-12,1.0,Morning,4.0,27.0,Used,19.0,
+RSV-0232,Computer Lab,Staff,2026-05-29,2026-06-07,9.0,Afternoon,3.0,27.0,Used,17.0,
+RSV-0104,Study Room,Faculty,2026-01-23,2026-02-10,18.0,Morning,1.0,2.0,Used,2.0,
+RSV-0082,Computer Lab,Staff,2026-03-06,2026-03-11,5.0,Afternoon,3.0,22.0,Used,18.0,
+RSV-0250,Comp Lab,Student Organization,2026-01-19,2026-02-02,14.0,Afternoon,3.0,33.0,No-Show,0.0,
+RSV-0275,Sports Court,Staff,2026-06-20,2026-06-27,7.0,Evening,1.0,35.0,Cancelled,,1.0
+RSV-0168,Conference Room,Student,2026-04-04,2026-05-16,42.0,Morning,1.0,12.0,No-Show,0.0,
+RSV-0410,Study Room,Student,2026-02-23,2026-02-23,0.0,Evening,3.0,3.0,No-Show,0.0,
+RSV-0416,Classroom,Student Organization,2026-03-18,2026-03-22,4.0,Evening,4.0,40.0,No-Show,0.0,
+RSV-0322,Auditorium,Student,2026-02-13,2026-02-25,12.0,Afternoon,2.0,118.0,No-Show,0.0,
+RSV-0357, Conference Room ,Faculty,2026-04-28,2026-05-10,12.0,Morning,1.0,13.0,Cancelled,,0.0
+RSV-0211,Conference Room,Staff,2026-05-08,2026-06-01,24.0,Afternoon,4.0,9.0,Cancelled,,7.0
+RSV-0195,Classroom,Student,2026-04-17,2026-05-22,35.0,Morning,2.0,40.0,Used,36.0,
+RSV-0090,Auditorium,Student,2026-02-21,2026-02-22,1.0,Afternoon,1.0,152.0,Cancelled,,1.0
+RSV-0413,Classroom,Student Organization,2026-06-08,2026-06-15,7.0,Morning,3.0,44.0,Used,25.0,
+RSV-0164,Classroom,Student Organization,2026-03-11,2026-03-23,12.0,Morning,2.0,32.0,Cancelled,,0.0
+RSV-0205,CLASSROOM,External Guest,2026-05-30,2026-06-01,2.0,Morning,2.0,25.0,Used,17.0,
+RSV-0148,Auditorium,Student,2026-02-13,2026-03-13,28.0,Morning,1.0,70.0,Used,54.0,
+RSV-0003,,Student,2026-03-31,2026-04-02,2.0,Afternoon,2.0,2.0,Cancelled,,0.0
+RSV-0093,Computer Lab,Student,2026-04-09,2026-04-23,14.0,Morning,1.0,29.0,Used,21.0,
+RSV-0070,Computer Lab,Student Organization,2026-06-01,2026-06-07,6.0,Morning,1.0,29.0,Cancelled,,5.0
+RSV-0382,Study Room,Stud.,2026-06-18,2026-06-20,2.0,Morning,1.0,3.0,No-Show,0.0,
+RSV-0124,Computer Lab,External Guest,2026-06-14,2026-06-20,6.0,Morning,4.0,24.0,Used,16.0,
+RSV-0323,Computer Lab,Staff,2026-03-12,2026-03-30,18.0,Afternoon,2.0,28.0,Cancelled,,10.0
+RSV-0097,Computer Lab,Student,2026-04-29,2026-05-05,6.0,Evening,2.0,22.0,Used,22.0,
+RSV-0144,Sports Court,Faculty,2026-01-24,2026-02-03,10.0,Afternoon,2.0,17.0,Used,14.0,
+RSV-0332,Classroom,Student,2026-04-11,2026-04-14,3.0,Afternoon,1.0,33.0,Used,29.0,
+RSV-0263,Computer Lab,Student,2026-03-17,2026-03-25,,Afternoon,3.0,34.0,Cancelled,,1.0
+RSV-0098,Classroom,Faculty,2026-03-02,2026-03-08,6.0,Morning,2.0,33.0,Used,28.0,
+RSV-0359,Auditorium,Faculty,2026-03-28,2026-04-06,9.0,Morning,4.0,123.0,Used,93.0,
+RSV-0069,Classroom,Student Organization,2026-04-09,2026-04-22,13.0,Morning,1.0,43.0,Used,31.0,
+RSV-0024,Study Room,Student,2026-04-06,2026-04-11,5.0,Afternoon,2.0,9.0,Cancelled,,0.0
+RSV-0038,Auditorium,Student Organization,2026-05-09,2026-05-15,6.0,Morning,1.0,168.0,USED,127.0,
+RSV-0145,Auditorium,Faculty,2026-04-07,2026-05-02,25.0,Morning,1.0,184.0,Cancelled,,8.0
+RSV-0123,Classroom,Staff,2026-05-06,2026-05-16,10.0,Morning,2.0,30.0,Used,26.0,
+RSV-0394,Sports Court,Student Organization,2026-02-28,2026-03-01,1.0,Afternoon,1.0,22.0,Used,15.0,
+RSV-0203,Auditorium,External Guest,2026-04-15,2026-03-23,23.0,Afternoon,1.0,194.0,Used,160.0,
+RSV-0183,Auditorium,Staff,2026-01-30,2026-02-06,7.0,Evening,1.0,211.0,no-show,0.0,
+RSV-0068,Computer Lab,Student,2026-02-09,2026-02-12,3.0,Morning,2.0,32.0,Cancelled,,0.0
+RSV-0417,Classroom,Faculty,2026-04-21,2026-05-02,11.0,Afternoon,3.0,31.0,Used,25.0,
+RSV-0267,Computer Lab,Student Organization,2026-06-11,2026-06-17,6.0,Morning,2.0,30.0,Used,22.0,
+RSV-0366,Computer Lab,Student,2026-05-26,2026-06-09,14.0,Morning,3.0,37.0,No-Show,0.0,
+RSV-0391,Sports Court,Student,2026-02-06,2026-02-13,-3.0,Morning,1.0,35.0,Cancelled,,5.0
+RSV-0262,Study Room,Student,2026-05-21,2026-05-26,-3.0,Morning,2.0,7.0,Used,5.0,
+RSV-0347,Study Room,Student,2026-03-08,2026-03-25,17.0,Morning,4.0,5.0,,3.0,
+RSV-0239,Classroom,Student Organization,2026-03-05,2026-03-06,1.0,Afternoon,2.0,,Used,47.0,
+RSV-0126,Auditorium,Student Organization,2026-06-04,2026-06-05,1.0,Afternoon,1.0,-5.0,Used,134.0,
+RSV-0147,,Faculty,2026-03-11,2026-03-21,10.0,Morning,4.0,37.0,Used,30.0,
+RSV-0335,Classroom,Faculty,2026-05-06,2026-05-07,1.0,Afternoon,3.0,24.0,Used,22.0,
+RSV-0375,Classroom,Student,2026-03-10,2026-03-16,6.0,Morning,4.0,48.0,Used,47.0,
+RSV-0224,Study Room,Student,2026-06-12,2026-06-21,9.0,Afternoon,1.0,7.0,Cancelled,,8.0
+RSV-0229,Sports Court,Faculty,2026-03-12,2026-03-25,13.0,Morning,3.0,22.0,No-Show,0.0,
+RSV-0087,Conference Room,Student,2026-05-30,2026-05-31,1.0,Morning,2.0,8.0,Used,6.0,
+RSV-0368,Sports Court,Student,2026-06-04,2026-06-11,7.0,Afternoon,1.0,16.0,No-Show,0.0,
+RSV-0220,Computer Lab,Staff,2026-06-02,2026-06-06,4.0,Afternoon,2.0,0.0,Used,13.0,
+RSV-0249,Computer Lab,Student,2026-06-01,2026-06-30,29.0,Afternoon,1.0,21.0,Cancelled,,15.0
+RSV-0369,Computer Lab,Faculty,2026-05-10,2026-05-10,0.0,Morning,1.0,37.0,Used,27.0,
+RSV-0245,Sports Court,Student,2026-03-22,2026-05-05,44.0,Evening,3.0,9.0,No-Show,0.0,
+RSV-0286,Computer Lab,Student Organization,2026-03-12,2026-03-15,3.0,Afternoon,2.0,23.0, Used ,15.0,
+RSV-0074,Classroom,Student,2026-05-13,2026-06-18,36.0,Evening,4.0,34.0,CANCELLED,,24.0
+RSV-0184,Computer Lab,Faculty,2025-12-25,2026-02-05,42.0,Afternoon,1.0,34.0,Used,26.0,
+RSV-0247,Sports Court,Faculty,2026-03-08,2026-03-18,10.0,Afternoon,3.0,16.0,Cancelled,,5.0
+RSV-0311,Auditorium,Student,2026-05-31,2026-06-08,8.0,Morning,2.0,153.0,Used,121.0,
+RSV-0256,Conference Room,Student Organization,2026-02-16,2026-02-21,5.0,Morning,1.0,10.0,Cancelled,,5.0
+RSV-0365,Sports Court,External Guest,2026-01-27,2026-03-10,42.0,Morning,2.0,14.0,Cancelled,,36.0
+RSV-0130,Sports Court,Student Organization,2026-04-24,2026-04-26,2.0,Morning,1.0,47.0,Cancelled,,2.0
+RSV-0039,Classroom, Faculty ,2026-06-08,2026-06-26,18.0,Afternoon,3.0,29.0,Used,29.0,
+RSV-0012,Study Room,Faculty,2026-06-08,2026-06-10,2.0,Morning,2.0,8.0,Used,5.0,
+RSV-0297,Study Room,Student Organization,2026-05-21,2026-06-15,25.0,Afternoon,4.0,5.0,Cancelled,,18.0
+RSV-0186,Sports Court,Faculty,2026-05-19,2026-05-31,12.0,Morning,2.0,30.0,No-Show,0.0,
+RSV-0298,Conference Room,Student,2026-05-10,2026-05-26,16.0,Morning,2.0,7.0,Used,5.0,
+RSV-0380,Conference Room,Faculty,2026-03-09,2026-04-17,39.0,Morning,3.0,14.0,USED,9.0,
+RSV-0113,Computer Lab,Student Organization,2026-02-14,2026-02-18,4.0,Morning,2.0,26.0,Used,,
+RSV-0180,Conference Room,Faculty,2026-05-28,2026-06-22,25.0,Morning,4.0,11.0,Used,7.0,
+RSV-0269,Classroom,Faculty,2026-06-25,2026-06-27,2.0,Evening,1.0,31.0,Used,30.0,
+RSV-0352,Classroom,Student Organization,2026-06-09,2026-06-14,5.0,Morning,3.0,39.0,Cancelled,,5.0
+RSV-0287,Classroom,Faculty,2026-04-20,2026-04-20,0.0,Afternoon,0.0,30.0,Used,30.0,
+RSV-0146,Classroom,Faculty,2026-04-29,2026-05-02,3.0,Evening,,45.0,Used,45.0,
+RSV-0315,Computer Lab,Student,2026-05-27,2026-06-01,5.0,Afternoon,1.0,31.0,Used,27.0,
+RSV-0234,Sports Court,Student,2026-04-25,2026-04-27,2.0,Evening,3.0,15.0,Used,10.0,
+RSV-0272,Classroom,Staff,2026-02-01,2026-02-02,1.0,Morning,1.0,39.0,Used,29.0,
+RSV-0165,Sports Court,Staff,2026-06-10,2026-06-22,12.0,Afternoon,2.0,,Cancelled,,4.0
+RSV-0137,Study Room,Student,2026-02-20,2026-02-24,4.0,Afternoon,2.0,2.0,Used,2.0,
+RSV-0198,study room,Student,2026-05-25,2026-05-31,6.0,Morning,2.0,4.0,Used,3.0,
+RSV-0259,Classroom,Student,2026-02-24,2026-03-08,12.0,Evening,1.0,31.0,Cancelled,,1.0
+RSV-0233,Study Room,Faculty,2026-06-17,2026-06-17,0.0,Morning,2.0,4.0,Used,,
+RSV-0116,Study Room,Student,2026-02-18,2026-02-25,7.0,Evening,1.0,6.0,No-Show,0.0,
+RSV-0121,Sports Court,External Guest,2026-06-12,2026-06-12,0.0,Afternoon,2.0,16.0,No-Show,0.0,
+RSV-0225,Computer Lab,Faculty,2026-03-12,2026-03-18,6.0,Morning,2.0,32.0, Used ,24.0,
+RSV-0353,Sports Court,Student Org,2026-03-28,2026-04-10,13.0,Evening,3.0,27.0,Used,23.0,
+RSV-0415,Classroom,Faculty,2026-03-06,2026-03-16,10.0,Morning,3.0,38.0,Used,37.0,
+RSV-0128, Classroom ,Student,2026-04-17,2026-04-27,10.0,Morning,2.0,42.0,No-Show,0.0,
+RSV-0362,Classroom,Staff,2026-06-23,2026-07-01,8.0,Afternoon,2.0,30.0,Used,29.0,
+RSV-0108,Classroom,External Guest,2026-05-17,2026-06-11,25.0,Evening,1.0,38.0,No-Show,0.0,
+RSV-0325,Study Room,Student Org,2026-06-19,2026-06-27,8.0,Morning,2.0,4.0,Used,2.0,
+RSV-0134,Computer Lab,Staff,2026-03-06,2026-03-11,5.0,Evening,1.0,40.0,Used,26.0,
+RSV-0319,Computer Lab,Student Organization,2026-05-02,2026-05-14,12.0,Morning,4.0,28.0,Used,18.0,
+RSV-0045,Study Room,Student Organization,2026-02-21,2026-02-23,2.0,Morning,3.0,4.0,No-Show,0.0,
+RSV-0402,Study Room,Student Organization,2026-04-03,2026-04-15,12.0,Morning,,6.0,Cancelled,,2.0
+RSV-0066,Sports Court,Student Organization,2026-04-26,2026-05-10,14.0,Afternoon,3.0,40.0,cancelled,,8.0
+RSV-0086,Classroom,Faculty,2026-02-05,2026-02-17,12.0,Morning,2.0,36.0,Used,26.0,
+RSV-0243, Classroom ,Student,2026-05-31,2026-05-31,0.0,Evening,2.0,31.0,Used,21.0,
+RSV-0187,Computer Lab,Staff,2026-03-09,2026-03-12,3.0,Evening,4.0,35.0,Used,27.0,
+RSV-0160,Conference Room,Student,2026-03-31,2026-05-14,44.0,Morning,4.0,10.0,No-Show,0.0,
+RSV-0013,Sports Court,,2026-01-30,2026-02-03,4.0,Evening,2.0,29.0,Used,20.0,
+RSV-0036,Classroom,Student,2026-01-27,2026-03-04,36.0,Evening,2.0,22.0,No-Show,0.0,
+RSV-0029,Classroom,Student,2026-02-10,2026-02-22,12.0,Morning,2.0,37.0,No-Show,0.0,
+RSV-0171,COMPUTER LAB,Staff,2026-05-02,2026-05-08,6.0,Afternoon,4.0,18.0,Used,17.0,
+RSV-0143,Study Room,Staff,2026-04-03,2026-04-09,6.0,Afternoon,4.0,999.0,Used,2.0,
+RSV-0319,Computer Lab,STUDENT ORGANIZATION,2026-05-02,2026-05-14,12.0,Morning,4.0,28.0,Used,18.0,
+RSV-0299,Conference Room,faculty,2026-06-14,2026-06-19,5.0,Morning,2.0,9.0,Used,9.0,
+RSV-0222,Auditorium,Faculty,2026-06-09,2026-06-18,9.0,Afternoon,1.0,96.0,Used,59.0,
+RSV-0096,Sports Court,Student,2026-02-03,2026-03-18,43.0,Morning,1.0,32.0,No-Show,0.0,
+RSV-0052,Classroom,Student Organization,2026-06-25,2026-06-28,3.0,Evening,4.0,22.0,Used,22.0,
+RSV-0241,Study Room,Student,2026-02-20,2026-03-19,27.0,Morning,2.0,6.0,No-Show,0.0,
+RSV-0337,Classroom,Student,2026-03-07,2026-03-18,11.0,Afternoon,1.0,20.0,Used,21.0,
+RSV-0333,Conference Room,Student,2026-01-14,2026-02-02,19.0,Morning,4.0,12.0,Used,11.0,
+RSV-0179,Study Room,External Guest,2026-03-18,2026-03-18,0.0,Morning,4.0,6.0,used,4.0,
+RSV-0042,Study Room,Student,2026-05-28,2026-06-23,26.0,Afternoon,2.0,3.0,Cancelled,,22.0
+RSV-0378,computer lab,Student,2026-04-27,2026-06-01,35.0,Afternoon,4.0,26.0,Cancelled,,35.0
+RSV-0207,CLASSROOM,Faculty,2026-06-01,2026-06-04,3.0,Morning,2.0,35.0,Used,32.0,
+RSV-0283,Classroom,Student,2026-05-02,2026-05-04,2.0,Afternoon,2.0,-5.0,No-Show,0.0,
+RSV-0255,Classroom,Student Organization,2026-03-29,2026-03-29,0.0,Afternoon,3.0,33.0,Used,22.0,
+RSV-0363,Classroom,Student Organization,2026-02-19,2026-02-26,7.0,Afternoon,3.0,38.0,No-Show,0.0,
+RSV-0005,Classroom,Faculty,2026-03-17,2026-03-29,12.0,Morning,2.0,23.0,Used,23.0,
+RSV-0257,Study Room,Staff,2026-03-19,2026-04-28,40.0,Morning,1.0,2.0,Cancelled,,28.0
+RSV-0392,Classroom,Student,2026-06-01,2026-06-17,,Afternoon,1.0,31.0,No-Show,0.0,
+RSV-0101,Study Room,Staff,2026-02-05,2026-02-11,6.0,Morning,2.0,4.0,Used,3.0,
+RSV-0227,Classroom,Student,2026-03-14,2026-03-16,2.0,Morning,4.0,33.0,,25.0,
+RSV-0374,Computer Lab,,2026-04-12,2026-04-20,8.0,Morning,2.0,30.0,Used,17.0,
+RSV-0214,Conference Room,Student,2026-04-03,2026-04-04,1.0,Morning,2.0,15.0,Used,13.0,
+RSV-0172,Auditorium,Student Organization,2025-12-21,2026-02-02,43.0,Afternoon,2.0,51.0,Cancelled,,3.0
+RSV-0099,Classroom,Student,2026-03-26,2026-04-08,13.0,Evening,2.0,28.0,Used,18.0,
+RSV-0293,Study Room,Faculty,2026-02-28,2026-03-10,10.0,Morning,2.0,3.0,Used,2.0,
+RSV-0216,Conference Room,Student,2026-04-21,2026-04-25,4.0,Afternoon,2.0,9.0,Cancelled,,3.0
+RSV-0062,Auditorium,Student,2026-02-12,2026-02-18,6.0,Morning,2.0,125.0,Used,74.0,
+RSV-0048,Computer Lab,External Guest,2026-02-11,2026-02-22,,Morning,2.0,31.0,Used,26.0,
+RSV-0033,Computer Lab,Faculty,2026-04-10,2026-05-12,32.0,Evening,2.0,31.0,No-Show,0.0,
+RSV-0268,Classroom,External Guest,2026-03-30,2026-04-05,6.0,Morning,2.0,36.0,Used,35.0,
+RSV-0201,Conference Room,Faculty,2026-03-27,2026-04-01,5.0,Morning,3.0,10.0,Used,8.0,
+RSV-0390,Study Room,External Guest,2026-04-09,2026-04-18,9.0,Morning,3.0,4.0,Cancelled,,9.0
+RSV-0028,Classroom,Faculty,2026-03-04,2026-03-17,13.0,Afternoon,2.0,35.0,Used ,24.0,
+RSV-0342,Study Room,Student,2026-04-19,2026-05-01,12.0,Morning,1.0,4.0,Used,3.0,
+RSV-0231,Classroom,Student Organization,2026-02-10,2026-02-14,4.0,Evening,1.0,42.0,Used,37.0,
+RSV-0261,Classroom, Student ,2026-05-19,2026-05-25,6.0,Morning,1.0,31.0,Cancelled,,6.0
+RSV-0289,AUDITORIUM,Student Organization,2026-04-04,2026-05-03,29.0,Afternoon,2.0,193.0,Cancelled,,20.0
+RSV-0163,Classroom,Student,2026-02-19,2026-03-13,22.0,Morning,2.0,33.0,Cancelled,,6.0
+RSV-0372,Classroom,Student Organization,2026-03-22,2026-03-25,3.0,Afternoon,3.0,49.0,Used,49.0,
+RSV-0139,Conference Room,Student Organization,2026-06-24,2026-06-30,6.0,Afternoon,2.0,8.0,Used,7.0,
+RSV-0063,Sports Court,Student Organization,2026-02-04,2026-02-13,9.0,Morning,1.0,26.0,No-Show,0.0,
+RSV-0136,Classroom,Student,2026-02-10,2026-02-13,3.0,Afternoon,1.0,37.0,Used,27.0,
+RSV-0129,Classroom,Faculty,2026-01-28,2026-02-28,31.0,Afternoon,4.0,28.0,Canceled,,20.0
+RSV-0009,Classroom,Student,2026-04-04,2026-04-22,18.0,Morning,2.0,34.0,Used,-2.0,
+RSV-0327,Conference Room,Student,2026-04-12,2026-04-15,3.0,Afternoon,2.0,13.0,Used,14.0,
+RSV-0065,Sports Court,Student,2026-04-07,2026-04-14,7.0,Evening,2.0,27.0,No-Show,0.0,
+RSV-0301,Conference Room,STUDENT ORGANIZATION,2026-06-04,2026-06-09,5.0,Morning,4.0,7.0,Used,,
+RSV-0015,Computer Lab,Student,2026-03-28,2026-03-28,0.0,Morning,1.0,29.0,Used,-2.0,
+RSV-0157,Computer Lab,Staff,2026-02-24,2026-02-24,0.0,Afternoon,2.0,28.0,Used,22.0,
+RSV-0041,Computer Lab,Student Organization,2026-05-16,2026-06-22,37.0,Morning,1.0,21.0,No-Show,0.0,
+RSV-0401,Computer Lab,Student,2025-12-23,2026-02-04,43.0,Evening,1.0,36.0,No-Show,0.0,
+RSV-0354,Sports Court,Staff,2026-02-13,2026-03-07,22.0,Evening,2.0,33.0,Cancelled,,15.0
+RSV-0217,Classroom,Faculty,2026-05-16,2026-05-16,0.0,Evening,2.0,34.0,Used,31.0,
+RSV-0280,Study Room,Student,2026-03-10,2026-04-17,38.0,Evening,2.0,2.0,Used,1.0,
+RSV-0379,Computer Lab,Faculty,2026-06-18,2026-06-22,4.0,Afternoon,1.0,33.0,Used ,22.0,
+RSV-0338,Conference Room, Staff ,2026-05-20,2026-06-01,12.0,Morning,1.0,13.0,Used,9.0,
+RSV-0237,Auditorium,Staff,2026-02-27,2026-03-03,4.0,Afternoon,3.0,186.0,No-Show,0.0,
+RSV-0208,Sports Court,Student,2026-04-02,2026-04-08,6.0,Afternoon,1.0,16.0,Used,12.0,
+RSV-0213, Classroom ,Student,2026-03-29,2026-04-13,15.0,Morning,1.0,33.0,Used,33.0,
+RSV-0296,Study Room,Student,2026-05-13,2026-06-19,37.0,Morning,3.0,8.0,Cancelled,,19.0
+RSV-0399,Auditorium,Faculty,2026-05-28,2026-05-30,-3.0,Morning,2.0,100.0,Used,70.0,
+RSV-0252,Study Room,Student Organization,2026-05-18,2026-06-10,23.0,Afternoon,1.0,3.0,Used,2.0,
+RSV-0133,Sports Court,Student,2026-03-30,2026-04-10,11.0,Morning,1.0,15.0,Used,9.0,
+RSV-0400,Computer Lab,Student,2026-05-10,2026-06-11,32.0,Morning,1.0,32.0,Cancelled,,28.0
+RSV-0304,Auditorium,External Guest,2026-04-15,2026-04-24,9.0,Afternoon,4.0,41.0,Used,31.0,
+RSV-0351,Sports Court,Student,2026-04-24,2026-04-24,0.0,Morning,1.0,28.0,Used,20.0,
+RSV-0270,Classroom,Student Organization,2026-03-22,2026-04-28,-3.0,Morning,1.0,38.0,Used,23.0,
+RSV-0202,Study Room,Student Organization,2026-03-07,2026-03-19,12.0,Afternoon,2.0,5.0,Used,4.0,
+RSV-0162,Study Room,Student Organization,2026-05-12,2026-05-26,14.0,Afternoon,2.0,6.0,Used,4.0,
+RSV-0044,Computer Lab,Student,2026-03-27,2026-04-08,12.0,Afternoon,1.0,37.0,Used,33.0,
+RSV-0218,Classroom,Faculty,2026-04-02,2026-04-07,5.0,Morning,4.0,43.0,Used,31.0,
+RSV-0191,Study Room,student organization,2026-03-25,2026-03-26,1.0,Afternoon,3.0,6.0,Cancelled,,0.0
+RSV-0310,CLASSROOM,Student Organization,2026-06-05,2026-06-12,7.0,Evening,2.0,51.0,Used,34.0,
+RSV-0260,Sports Court,Student,2026-05-15,2026-05-20,5.0,Morning,1.0,16.0,Used ,11.0,
+RSV-0106,Conference Room,Student,2026-05-23,2026-06-09,17.0,Morning,2.0,9.0,Cancelled,,17.0
+RSV-0054,Sports Court,Student,2026-02-02,2026-02-06,4.0,Morning,1.0,21.0,No-Show,0.0,
+RSV-0002,Computer Lab,Student,2026-05-05,2026-05-10,5.0,Afternoon,2.0,33.0,Used,26.0,
+RSV-0335,Classroom,Faculty,2026-05-06,2026-05-07,1.0,Afternoon,3.0,24.0,Used,22.0,
+RSV-0050,Classroom,Student Organization,2026-05-16,2026-05-17,1.0,Afternoon,4.0,42.0,Used,40.0,
+RSV-0081,Sports Court,Faculty,2026-03-15,2026-03-29,14.0,Morning,1.0,33.0,Used,26.0,
+RSV-0206,Classroom,Student Organization,2026-06-24,2026-06-27,3.0,Morning,2.0,19.0,Used,17.0,
+RSV-0035,Auditorium,Student,2026-04-15,2026-04-20,5.0,Afternoon,2.0,139.0,Cancelled,,0.0
+RSV-0264,Classroom,Student Organization,2026-03-25,2026-04-01,7.0,Afternoon,3.0,34.0,Used,21.0,
+RSV-0367,Conference Room,Faculty,2026-04-03,2026-04-11,8.0,Afternoon,2.0,12.0,Used,8.0,
+RSV-0092,Conference Room,Staff,2026-04-13,2026-04-19,6.0,Morning,3.0,12.0,Used,8.0,
+RSV-0340,Study Room,Student Organization,2026-03-06,2026-03-08,2.0,Morning,1.0,6.0,Cancelled,,2.0
+RSV-0053,Conference Room,Student,2026-05-08,2026-05-10,2.0,Morning,2.0,6.0,Used,4.0,
+RSV-0346,Conference Room,Stud.,2026-03-10,2026-03-19,9.0,Afternoon,1.0,11.0,Used,9.0,
+RSV-0265,,Faculty,2026-04-01,2026-04-05,4.0,Morning,3.0,6.0,Used,5.0,
+RSV-0242,Conference Room,Staff,2026-05-22,2026-05-24,2.0,Evening,4.0,18.0,Used,10.0,
+RSV-0014,Study Room,Staff,2026-02-20,2026-02-26,6.0,Evening,2.0,4.0,Used,3.0,
+RSV-0316,Computer Lab,Faculty,2026-03-25,2026-04-18,24.0,Morning,1.0,0.0,Used,23.0,
+RSV-0089,Classroom,Student Organization,2026-06-07,2026-07-01,24.0,Afternoon,2.0,36.0,No-Show,0.0,
+RSV-0274,Sports Court,Student,2026-04-09,2026-05-09,30.0,Evening,3.0,2.0,No-Show,0.0,
+RSV-0167,Study Room,Student,2026-01-03,2026-02-07,35.0,Evening,1.0,6.0,Cancelled,,17.0
+RSV-0329,Sports Court,Faculty,2026-05-14,2026-06-28,45.0,Afternoon,1.0,,Used,21.0,
+RSV-0073,Study Room,Faculty,2026-03-18,2026-04-17,30.0,Evening,2.0,,Used,5.0,
+RSV-0135,Sports Court,Student,2026-05-23,2026-05-25,2.0,Morning,3.0,34.0,Used,28.0,
+RSV-0307,Computer Lab,STUDENT,2026-04-08,2026-04-22,14.0,Afternoon,1.0,25.0,Used,,
+RSV-0420,Study Room,Student Organization,2026-04-30,2026-06-05,36.0,Evening,2.0,3.0,Cancelled,,21.0
+RSV-0320,Study Room,Student Organization,2026-02-18,2026-02-18,0.0,Afternoon,3.0,4.0,No-Show,0.0,
+RSV-0244,Auditorium,Student,2026-03-04,2026-03-05,1.0,Afternoon,2.0,155.0,Used,124.0,
+RSV-0055,Conference Room,Student,2026-03-08,2026-03-11,3.0,Afternoon,1.0,7.0,Used,5.0,
+RSV-0364,Classroom,Faculty,2026-02-16,2026-02-19,3.0,Afternoon,,37.0,Used,37.0,
+RSV-0051,Classroom,Student Organization,,2026-03-10,6.0,Morning,2.0,31.0,Used,22.0,
+RSV-0175,Classroom,Student,2026-02-18,2026-02-25,,Morning,1.0,36.0,Used,20.0,
+RSV-0190,Classroom,Student Org,2026-05-17,2026-05-31,14.0,Morning,1.0,33.0,Cancelled,,2.0
+RSV-0091,Classroom,Student,2026-04-16,2026-04-24,8.0,Morning,3.0,34.0,No-Show,0.0,
+RSV-0188,Classroom,Student,2026-04-06,2026-04-10,4.0,Morning,2.0,47.0,no-show,0.0,
+RSV-0170,Study Room,Student,2026-04-18,2026-04-26,8.0,Afternoon,2.0,7.0,Cancelled,,1.0
+RSV-0059,Classroom,Faculty,2026-06-04,2026-06-09,5.0,Morning,3.0,21.0,No-Show,0.0,
+RSV-0049,Sports Court,Student,2026-02-23,2026-04-02,38.0,Morning,0.0,24.0,Cancelled,,17.0
+RSV-0345,Conference Room,Staff,2026-02-22,2026-03-08,14.0,Morning,1.0,9.0,Used,6.0,
+RSV-0236,Conference Room,Student,2026-05-07,2026-05-17,10.0,Morning,24.0,5.0,Used,5.0,
+RSV-0253,Auditorium,External Guest,2026-04-21,2026-04-22,1.0,Morning,2.0,93.0,Used,81.0,
+RSV-0022,Computer Lab,Student,2026-06-18,2026-06-19,1.0,Afternoon,2.0,23.0,Used,15.0,
+RSV-0314,Computer Lab,Student Organization,2026-03-30,2026-03-31,1.0,Morning,3.0,26.0,Cancelled,,1.0
+RSV-0161,Classroom,Student Organization,2026-05-04,2026-05-17,13.0,Morning,3.0,35.0,Used,21.0,
+RSV-0277,Computer Lab,Faculty,2026-02-05,2026-02-06,1.0,Morning,3.0,26.0,Used,18.0,
+RSV-0192,Classroom,Faculty,2026-02-03,2026-02-03,0.0,Afternoon,2.0,35.0,Used,27.0,
+RSV-0386,Study Room,Student,,2026-04-20,1.0,Evening,2.0,2.0,Used,2.0,
+RSV-0294,Classroom,Staff,2026-06-13,2026-06-27,14.0,Afternoon,2.0,45.0,Used,27.0,
+RSV-0414,Study Room,Faculty,2026-04-08,2026-04-09,1.0,Afternoon,1.0,11.0,Used,6.0,
+RSV-0344,Sports Court,Stud.,2026-02-16,2026-02-25,9.0,Morning,3.0,23.0,Cancelled,,6.0
+RSV-0258,Classroom,Student Organization,2026-05-21,2026-06-04,14.0,Afternoon,4.0,0.0,No-Show,0.0,
+RSV-0309,Classroom,Student Organization,2026-05-03,2026-05-04,1.0,Afternoon,2.0,28.0,Cancelled,,1.0
+RSV-0150,Classroom,Student Organization,2026-02-12,2026-03-02,18.0,Afternoon,3.0,43.0,Used,38.0,
+RSV-0131,Classroom,Student Organization,2026-06-11,2026-06-17,6.0,Morning,4.0,31.0,Used,27.0,
+RSV-0152,Study Room,Staff,2026-02-07,2026-02-08,1.0,Afternoon,4.0,5.0,Used,3.0,
+RSV-0360,Sports Court,Staff,2026-03-15,2026-04-15,31.0,Afternoon,1.0,43.0,No-Show,0.0,
+RSV-0100,Study Room,Staff,2026-04-24,2026-05-06,12.0,Morning,1.0,5.0,Used,4.0,
+RSV-0373,Computer Lab,Student,2026-02-04,2026-02-24,,Afternoon,2.0,34.0,Cancelled,,0.0
+RSV-0088,Auditorium,Staff,2026-04-28,2026-05-11,13.0,Evening,2.0,124.0,Cancelled,,9.0
+RSV-0331,Conference Room,Student,2026-01-26,2026-02-05,10.0,Morning,1.0,11.0,Used,10.0,
+RSV-0215,Conference Room,Student,2026-03-28,2026-03-30,2.0,Morning,2.0,14.0,Used,10.0,
+RSV-0122,Sports Court,,2026-06-13,2026-06-13,0.0,Morning,1.0,19.0,Cancelled,,0.0
+RSV-0335,Classroom,FACULTY,2026-05-06,2026-05-07,1.0,Afternoon,3.0,24.0,Used,22.0,
+RSV-0021,Conference Room,Staff,2026-05-05,2026-05-11,6.0,Afternoon,2.0,22.0,Used,20.0,
+RSV-0189,CONFERENCE ROOM,Faculty,2026-04-11,2026-04-13,2.0,Afternoon,2.0,8.0,Used,7.0,
+RSV-0072,Computer Lab,Faculty,2026-04-14,2026-04-21,7.0,Evening,2.0,16.0,used,16.0,
+RSV-0107,Computer Lab,External Guest,2026-03-04,2026-03-16,12.0,Afternoon,1.0,-5.0,Used,23.0,
+RSV-0271,Classroom,Student,2026-03-22,2026-03-31,9.0,Morning,2.0,999.0,Used,26.0,
+RSV-0349,Sports Court,Student,2026-05-08,2026-05-22,14.0,Morning,2.0,19.0,No-Show,0.0,
+RSV-0224,Study Room,STUDENT,2026-06-12,2026-06-21,9.0,Afternoon,1.0,7.0,Cancelled,,8.0
+RSV-0103,Classroom,Student,2026-05-18,2026-05-20,2.0,Morning,2.0,39.0,No-Show,0.0,
